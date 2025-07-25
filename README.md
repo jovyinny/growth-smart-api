@@ -16,3 +16,7 @@ The system will give a detailed prediction on what crop to be planted at the mom
 The buyer
 
 This willl follow a simple workflow, view available crops from nearest farmers /markets -> simply places order -> Payment -> GrowSmart handles payment and the heavy details[the farmer has to focus on the farm then the cash thing flows]
+
+## To be completed
+
+Finalize the prediction model.
